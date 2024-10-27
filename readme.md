@@ -1,4 +1,4 @@
-# Threat Modeling Tricks
+# Tricks - Threat Modeling
 
 It is a process in which security threats are detected, and potential risks that can impact the logical flow and architecture of systems can be mapped and listed. Aiming at a Shift-Left strategy, the introduction of Threat Modeling facilitates the implementation of Security-By-Design for your S-SDLC in the Design phase.
 
